@@ -1,5 +1,7 @@
 # TYDSP
-" Real-time audio for Gamemaker : studio "
+Real-time audio for Gamemaker : studio by PISSENWYY
+
+
 ![WOWW](https://imgur.com/Cn8suhK.png)
 
 ----
