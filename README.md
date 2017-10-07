@@ -27,6 +27,6 @@ You can pend / shove intergers into your audio device using gamemaker's audio bu
 
 ```tydsp_feedroom()``` - Put this into AUDIO PLAYBACK (async) event. (for telling the system that one buffer has ended playing)
 
-```tydsp_end()``` - Excute this when TYDSP is no more needed, for preventing memory leaks.
+```tydsp_end()``` - Execute this when TYDSP is no more needed, for preventing memory leaks.
 
 ```tydsp_setvolume( VOLUME, TIME )``` - basically audio_sound_gain for TYDSP.
